@@ -1,0 +1,4 @@
+Payee:-Sachin Bansal
+Amount:- 4000 
+Date:-04-11-2020
+Cheque No:- 2307951910847 331157
